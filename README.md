@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ## Notas modificacion de github
 esto es para modificaciones de github web
+
+## Notas Nuevo para GitHub
+esto es para modificaciones de github 
